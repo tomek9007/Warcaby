@@ -19,7 +19,7 @@
 <script src="javascript.js">
 
 </script>
-<title>Warcaby</title>
+<title>Draughts</title>
 </head>
 <body>
 <div id="jezyk">
