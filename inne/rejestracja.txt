@@ -1,0 +1,33 @@
+			<h1>REJESTRACJA</h1>
+				<form action="register.php" method="post">
+					<table id="formularz">
+						<tr>
+							<td>Imie:</td>
+							<td><input type="text" name="imie"/></td>
+						</tr>
+						<tr>
+							<td>Nazwisko:</td>
+							<td><input type="text" name="nazwisko"/></td>
+						</tr>						
+						<tr>
+							<td>Email:</td>
+							<td><input type="text" name="mail"/></td>
+						</tr>						
+						<tr>
+							<td>Login:</td>
+							<td><input type="text" name="login"/></td>
+						</tr>						
+						<tr>
+							<td>Haslo:</td>
+							<td><input type="password" name="haslo"/></td>
+						</tr>
+						<tr>
+							<td>Powtorz haslo:</td>
+							<td><input type="password" name="hasloSpr"/></td>
+						</tr>
+
+					</table>					
+					<br />
+					<input type="submit" value="Wyslij dane"/>
+
+				</form>

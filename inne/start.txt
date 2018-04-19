@@ -1,0 +1,6 @@
+					<h2>Warcaby</h2>
+					<p>Warcaby są klasyczną grą planszową dla dwóch graczy. 
+					Pole do gry jest identyczne jak w szachach jednak zasady są inne. 
+					Gra ma wiele odmian (z czego najbardziej znaną są warcaby polskie),
+					które różnią sie zasadami, a nawet liczbą pionków. Nie są one jednak skomplikowane, 
+					dzięki czemu gracz szybko uczy się zasad i może czerpać przyjemność z gry</p>
